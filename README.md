@@ -1,6 +1,6 @@
 # Krishna Spiritual AI
 
-Static 3D character viewer with pale blue skin, earrings, one trial peacock feather and red tilak. Preserves the existing face, expression controls, speech animation and cursor tracking.
+Static 3D character viewer with pale blue skin, original unpainted crown, earrings, one softened trial peacock feather and textured red tilak. Preserves the existing face, expression controls, speech animation and cursor tracking.
 
 Preview locally: `python3 -m http.server 8876`
 
